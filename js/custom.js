@@ -505,8 +505,8 @@ $(document).ready(function () {
 
     if (waterPipe.length) {
       waterPipe.waterpipe({
-        gradientStart: '#fa05fa',
-        gradientEnd: '#6b71e3',
+        gradientStart: '#B2964B',
+        gradientEnd: '#311D05',
         smokeOpacity: 0.1,
         numCircles: 1,
         maxMaxRad: 'auto',
